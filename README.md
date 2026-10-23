@@ -38,3 +38,8 @@ exit
 interface GigabitEthernet0/0.30
  ip access-group OT_SECURITY out
 exit
+📁 Repository Structure
+Plaintext
+├── industrial-it-ot-topology.pkt   # Cisco Packet Tracer Topology File
+├── README.md                       # Project Documentation
+└── architecture-diagram.png        # Network Diagram Screenshot
